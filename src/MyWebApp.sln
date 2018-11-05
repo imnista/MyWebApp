@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApp", "MyWebApp\MyWebApp.csproj", "{C1FF1027-5E62-409F-87C5-85476C59AD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAppCustomForms", "MyWebAppCustomForms\MyWebAppCustomForms.csproj", "{B85EF9B4-3D20-4F82-A2F8-508166F83EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FF1027-5E62-409F-87C5-85476C59AD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FF1027-5E62-409F-87C5-85476C59AD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FF1027-5E62-409F-87C5-85476C59AD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FF1027-5E62-409F-87C5-85476C59AD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85EF9B4-3D20-4F82-A2F8-508166F83EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85EF9B4-3D20-4F82-A2F8-508166F83EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85EF9B4-3D20-4F82-A2F8-508166F83EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85EF9B4-3D20-4F82-A2F8-508166F83EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C6D96A-1171-4EFA-A8E8-652F758C60BB}
+	EndGlobalSection
+EndGlobal
